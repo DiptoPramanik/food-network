@@ -1,0 +1,116 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: dimgrey;
+margin: 0px;
+}
+.color-highlight{
+    color: rgb(251, 142, 72);
+}
+.font-style{
+    font-weight: 900;
+    font-size: 50px;
+}
+.flexiable-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    padding-left: 10%;
+    
+}
+.top-part-text-movement{
+    margin-top: 100px;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(20deg, salmon,tomato);
+    padding: 20px 40px;
+    color: white;
+    border-radius: 70px;
+}
+.middle-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.top-part-image-movement{
+    margin-right: 15%;
+}
+h2{
+    font-size: 40px;
+    font-weight: 900;
+}
+.middle-part-image-movement{
+    margin-left: 12%;
+    margin-top: 3%;
+}
+.middle-part-text-movement{
+    margin-right: 10%;
+    margin-top: 6%;
+}
+.center{
+    text-align: center;
+}
+#recipie{
+    font-size: 30px;
+    font-weight: 900;
+}
+.card{
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    padding: 10px 10px;
+    box-shadow: 10px 10px 5px gray;
+    height: 500px;
+    border-radius: 25px;
+}
+.card img{
+    width: 100%;
+}
+.recipie-title{
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+}
+.clear{
+    clear: both;
+}
+.achivement{
+    float: left;
+    margin-top: 150px;
+    margin-left: 17%;
+    
+}
+.point{
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+}
+.footer{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    padding-left: 2%;
+
+}
+.last{
+    color: white;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+.last-part{
+    background-color: rgb(10, 12, 22);
+    margin-top: 900px;
+    height: 200px;
+}
+.footer-design{
+    padding-top: 25px;
+}
+
+  
